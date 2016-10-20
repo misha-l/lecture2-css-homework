@@ -1,6 +1,5 @@
 body
  {
-  float: left;
   margin: 0;
 	padding: 0;
 	font-family: 'Arial';
@@ -8,7 +7,6 @@ body
  
 .card-form
  {
-  float: left;
   display: block;
 	padding: 10px 16px 10px 16px;
   margin-top: 20px;
@@ -33,7 +31,6 @@ input
  }
 input.cc-number, input.cc-name
  {
-  float: left;
   width: 100%;
  }
 .cc-info
@@ -42,7 +39,6 @@ input.cc-number, input.cc-name
  }
 .cc-info label
  {
-  float: left;
   font-size: 9px;
 	color: #737373;
 	margin-bottom: 5px;
@@ -79,14 +75,10 @@ input.cc-number, input.cc-name
   float: left;
 	margin-top: 16px;
  }
-.save-payment
- {
-  float: left;
- }
+
 .save-payment select
  {
   display: inline;
-  float: left;
  }
 .save-payment p
  {
@@ -99,7 +91,6 @@ input.cc-number, input.cc-name
  }
 .buttons
  {
-  float: left;
 	width: 100%;
 	display: block;
   margin-top: 6px;
